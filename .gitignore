@@ -1,0 +1,14 @@
+*.log
+__pycache__/
+*.py[cod]
+*$py.class
+results/*
+.DS_Store
+.idea
+Journals/
+config
+private_key*
+Design/Archive_To_Network_UML.vsdx
+Data/*
+src/security/config.bin
+Design/Archive_To_Network_UML.jpg
