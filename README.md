@@ -24,3 +24,5 @@ The silence of everyone shocked to the pile of bodies before them. Broken by the
 For a moment everything changed, from where the warrior was positioned a bright light blasted out so bright it burnt, everything and so loud that it broke my hearing and as you can see my last gift of sight.
 The last thing I saw in the world that day was probably your Covid for which took my eyes away.
 Wow, the young Sarsen gasped. So the tale is true, time did freeze from the moment when Nagasaki fell for the Great End. A chance to of been witness to a sight, even if the vision was hard to hear held together by the softness of her wise nature. Just having to know the tales are true, in a world of lies and missed truths, would have been everything if nothing just for a brief view.
+
+![Image of uml](https://github.com/charly-sen/Archive-Networker/blob/main/Nagasaki_Market_Garden.jpg)
